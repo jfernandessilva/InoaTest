@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InoaTest": {
+      "commandName": "Project",
+      "commandLineArgs": "PETR4 26.12 25.00"
+    }
+  }
+}
